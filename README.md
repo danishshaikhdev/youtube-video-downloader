@@ -52,10 +52,6 @@ YouTube Video Downloader is a Python-based application that allows users to down
 
 6. Click on "⬇️ Download Video" to start the download.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
