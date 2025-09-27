@@ -21,7 +21,7 @@ YouTube Video Downloader is a Python-based application that allows users to down
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/youtube-video-downloader.git
+    git clone https://github.com/danishshaikhdev/youtube-video-downloader.git
     cd YTVideoDownloader
     ```
 
